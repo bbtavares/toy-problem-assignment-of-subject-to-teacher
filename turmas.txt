@@ -1,0 +1,9 @@
+Cálculo I: 6
+Cálculo II: 6
+Cálculo III: 5
+Álgebra Linear: 4
+Cálculo Numérico: 5
+Álgebra I: 3
+GA: 3
+EDA I: 2
+EDA II: 2

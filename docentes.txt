@@ -1,0 +1,5 @@
+Eduardo: 8, 12
+Pryscilla: 2, 5
+Claudemir: 3, 8
+Maria Luiza:6, 12
+Beatriz:5, 12
